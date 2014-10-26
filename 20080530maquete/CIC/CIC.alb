@@ -1,0 +1,42 @@
+<webalbum version="1.8.2">
+  <title>CIC</title>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <outputdirectory>C:\Documents and Settings\André Ricardo\Ambiente de trabalho\CIC\</outputdirectory>
+    <navigateinloop>False</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>0</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Andre\2042comandos\Projecto daPágina na Net\1-Fotos Curso\1401 - O Comandante do CIC, Coronel Correia Diniz.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Andre\2042comandos\Projecto daPágina na Net\1-Fotos Curso\1402 - Entrega do Estandarte Nacional ao CIC.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Andre\2042comandos\Projecto daPágina na Net\1-Fotos Curso\1403 - O futuro comandante da 2042ª CC, de Torre Espada ao peito recebe O Estandarte Nacional entregue ao CIC.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Andre\2042comandos\Projecto daPágina na Net\1-Fotos Curso\1404 - Comandos em parada em continência ao Estandarte Nacional.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Andre\2042comandos\Projecto daPágina na Net\1-Fotos Curso\1405 - Transporte do Estandarte Nacional.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Andre\2042comandos\Projecto daPágina na Net\1-Fotos Curso\1406 - Um artigo da revista COMANDOS sobre o então nosso nosso futuro comandante de companhia comandante de.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Andre\2042comandos\Projecto daPágina na Net\1-Fotos Curso\1408 - O nosso futuro comandante de companhia então alferes Isaías Pires quando ainda era instrutor no CIC.jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>

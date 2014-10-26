@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="false" ignorewhitespace="true" useregexp="false"wholeword="false"/>
+  <find>
+    <qtext qname="&lt;/body&gt;" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1="</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type=&quot;text/javascript&quot;>
+var gaJsHost = ((&quot;https:&quot; == document.location.protocol) ? &quot;https://ssl.&quot; : &quot;http://www.&quot;);
+document.write(unescape(&quot;%3Cscript src='&quot; + gaJsHost + &quot;google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E&quot;));
+</script>
+<script type=&quot;text/javascript&quot;>
+var pageTracker = _gat._getTracker(&quot;UA-4562920-1&quot;);
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>" param2=""/>
+</dwquery>
